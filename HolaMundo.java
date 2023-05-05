@@ -4,7 +4,7 @@ public class HolaMundo
 
 
 		/** */
-		System.out.println("Bienvenido al Curso");
+		System.out.println("Hola Mundo");
 
 	}
 }
